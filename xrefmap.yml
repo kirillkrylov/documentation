@@ -1,0 +1,91 @@
+### YamlMime:XRefMap
+sorted: true
+references:
+- uid: ClassLibrary2
+  name: ClassLibrary2
+  href: api/ClassLibrary2.html
+  commentId: N:ClassLibrary2
+  fullName: ClassLibrary2
+  nameWithType: ClassLibrary2
+- uid: ClassLibrary2.Math
+  name: Math
+  href: api/ClassLibrary2.Math.html
+  commentId: T:ClassLibrary2.Math
+  fullName: ClassLibrary2.Math
+  nameWithType: Math
+- uid: ClassLibrary2.Math.Add(System.Double,System.Double)
+  name: Add(Double, Double)
+  href: api/ClassLibrary2.Math.html#ClassLibrary2_Math_Add_System_Double_System_Double_
+  commentId: M:ClassLibrary2.Math.Add(System.Double,System.Double)
+  fullName: ClassLibrary2.Math.Add(System.Double, System.Double)
+  nameWithType: Math.Add(Double, Double)
+- uid: ClassLibrary2.Math.Add(System.Int32,System.Int32)
+  name: Add(Int32, Int32)
+  href: api/ClassLibrary2.Math.html#ClassLibrary2_Math_Add_System_Int32_System_Int32_
+  commentId: M:ClassLibrary2.Math.Add(System.Int32,System.Int32)
+  fullName: ClassLibrary2.Math.Add(System.Int32, System.Int32)
+  nameWithType: Math.Add(Int32, Int32)
+- uid: ClassLibrary2.Math.Add*
+  name: Add
+  href: api/ClassLibrary2.Math.html#ClassLibrary2_Math_Add_
+  commentId: Overload:ClassLibrary2.Math.Add
+  isSpec: "True"
+  fullName: ClassLibrary2.Math.Add
+  nameWithType: Math.Add
+- uid: ClassLibrary2.Math.Divide(System.Double,System.Double)
+  name: Divide(Double, Double)
+  href: api/ClassLibrary2.Math.html#ClassLibrary2_Math_Divide_System_Double_System_Double_
+  commentId: M:ClassLibrary2.Math.Divide(System.Double,System.Double)
+  fullName: ClassLibrary2.Math.Divide(System.Double, System.Double)
+  nameWithType: Math.Divide(Double, Double)
+- uid: ClassLibrary2.Math.Divide(System.Int32,System.Int32)
+  name: Divide(Int32, Int32)
+  href: api/ClassLibrary2.Math.html#ClassLibrary2_Math_Divide_System_Int32_System_Int32_
+  commentId: M:ClassLibrary2.Math.Divide(System.Int32,System.Int32)
+  fullName: ClassLibrary2.Math.Divide(System.Int32, System.Int32)
+  nameWithType: Math.Divide(Int32, Int32)
+- uid: ClassLibrary2.Math.Divide*
+  name: Divide
+  href: api/ClassLibrary2.Math.html#ClassLibrary2_Math_Divide_
+  commentId: Overload:ClassLibrary2.Math.Divide
+  isSpec: "True"
+  fullName: ClassLibrary2.Math.Divide
+  nameWithType: Math.Divide
+- uid: ClassLibrary2.Math.Multiply(System.Double,System.Double)
+  name: Multiply(Double, Double)
+  href: api/ClassLibrary2.Math.html#ClassLibrary2_Math_Multiply_System_Double_System_Double_
+  commentId: M:ClassLibrary2.Math.Multiply(System.Double,System.Double)
+  fullName: ClassLibrary2.Math.Multiply(System.Double, System.Double)
+  nameWithType: Math.Multiply(Double, Double)
+- uid: ClassLibrary2.Math.Multiply(System.Int32,System.Int32)
+  name: Multiply(Int32, Int32)
+  href: api/ClassLibrary2.Math.html#ClassLibrary2_Math_Multiply_System_Int32_System_Int32_
+  commentId: M:ClassLibrary2.Math.Multiply(System.Int32,System.Int32)
+  fullName: ClassLibrary2.Math.Multiply(System.Int32, System.Int32)
+  nameWithType: Math.Multiply(Int32, Int32)
+- uid: ClassLibrary2.Math.Multiply*
+  name: Multiply
+  href: api/ClassLibrary2.Math.html#ClassLibrary2_Math_Multiply_
+  commentId: Overload:ClassLibrary2.Math.Multiply
+  isSpec: "True"
+  fullName: ClassLibrary2.Math.Multiply
+  nameWithType: Math.Multiply
+- uid: ClassLibrary2.Math.Subtract(System.Double,System.Double)
+  name: Subtract(Double, Double)
+  href: api/ClassLibrary2.Math.html#ClassLibrary2_Math_Subtract_System_Double_System_Double_
+  commentId: M:ClassLibrary2.Math.Subtract(System.Double,System.Double)
+  fullName: ClassLibrary2.Math.Subtract(System.Double, System.Double)
+  nameWithType: Math.Subtract(Double, Double)
+- uid: ClassLibrary2.Math.Subtract(System.Int32,System.Int32)
+  name: Subtract(Int32, Int32)
+  href: api/ClassLibrary2.Math.html#ClassLibrary2_Math_Subtract_System_Int32_System_Int32_
+  commentId: M:ClassLibrary2.Math.Subtract(System.Int32,System.Int32)
+  fullName: ClassLibrary2.Math.Subtract(System.Int32, System.Int32)
+  nameWithType: Math.Subtract(Int32, Int32)
+- uid: ClassLibrary2.Math.Subtract*
+  name: Subtract
+  href: api/ClassLibrary2.Math.html#ClassLibrary2_Math_Subtract_
+  commentId: Overload:ClassLibrary2.Math.Subtract
+  isSpec: "True"
+  fullName: ClassLibrary2.Math.Subtract
+  nameWithType: Math.Subtract
