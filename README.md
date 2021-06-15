@@ -1,1 +1,0 @@
-https://kirillkrylov.github.io/documentation/
